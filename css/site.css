@@ -9,5 +9,9 @@ button {
   color: white;
 }
 body{
-	background: red;
+	background: green;
+}
+
+p{
+	font: 13px;
 }
