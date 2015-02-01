@@ -1,0 +1,11 @@
+"ignored_packages":
+	[
+		"ColorPicker",
+		"AdvancedNewFile",
+		"WebFont",
+		"SideBarEnhancements",
+		"Tag",
+		"AutoFileName",
+		"Vintage",
+		"Bootstrap 3 Snippets"
+	]
